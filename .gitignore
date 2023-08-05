@@ -1,0 +1,18 @@
+# project
+dag-outputs/
+postgres-db-volume/
+logs/
+.env
+./python
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.Rproj.user
+*.Rproj
+**/__pycache__
+.envrc
+
+*.Rhistory
+*_cache/
