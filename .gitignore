@@ -1,9 +1,9 @@
 # project
-dag-outputs/
-postgres-db-volume/
-logs/
+dag-outputs/*
+postgres-db-volume/*
+logs/*
 .env
-./python
+# python/
 
 # general
 .DS_Store
