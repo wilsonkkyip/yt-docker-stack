@@ -1,10 +1,6 @@
 # project
-dag-outputs/*
-!/dag-outputs
 postgres-db-volume/*
-!/postgres-db-volume
 logs/*
-!/logs
 .env
 python/
 
