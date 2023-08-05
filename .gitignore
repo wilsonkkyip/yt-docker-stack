@@ -1,6 +1,4 @@
 # project
-postgres-db-volume/*
-logs/*
 .env
 python/
 
